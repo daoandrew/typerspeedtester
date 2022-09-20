@@ -1,0 +1,5 @@
+This app was created in 2 hours. I just wanted to see how fast I could come up with a simple solution for this typer speed tester.
+
+It looks really bad and probably really buggy. I will try to work on making it look nicer in the future. I also struggled with not making it Object orientated.
+
+For my next iteration I will most likely use a class for my GUI window so that all the methods and attributes are within a single object.
